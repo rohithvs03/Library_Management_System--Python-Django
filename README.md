@@ -144,9 +144,9 @@ This project is built with :
 #### Step 3
 
 - 🔃 Create a new pull request.
-## Creadits :
+## Credits :
 
-#### Django Library Management was created by Mohammad Burhan
+#### Django Library Management was created by Rohith V S
 
 
 ## License
